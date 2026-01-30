@@ -3497,3 +3497,93 @@ Sampler Limit: 32
 [2026.01.30-08.19.16:040][608]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6663.286133
 [2026.01.30-08.19.17:373][611]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.01.30-08.19.17:373][611]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6664.286133, Update Interval: 307.758423
+[2026.01.30-08.24.58:779][635]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7006.023438
+[2026.01.30-08.24.59:780][638]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.30-08.24.59:780][638]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7006.690430, Update Interval: 354.922333
+[2026.01.30-08.27.23:658][141]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.30-08.27.23:658][141]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_TigerAsset/Mateirals/Green] ([1] browsable assets)...
+[2026.01.30-08.27.23:658][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/_TigerAsset/Mateirals/Green]
+[2026.01.30-08.27.23:658][141]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_TigerAsset/Mateirals/Green" FILE="../../../../UE_Projects/GameJam_2026/Content/_TigerAsset/Mateirals/Green.uasset" SILENT=true
+[2026.01.30-08.27.23:666][141]LogSavePackage: Moving output files for package: /Game/_TigerAsset/Mateirals/Green
+[2026.01.30-08.27.23:666][141]LogSavePackage: Moving '../../../../UE_Projects/GameJam_2026/Saved/Green6B0B1A624F0E42D5CDB8139C704BF672.tmp' to '../../../../UE_Projects/GameJam_2026/Content/_TigerAsset/Mateirals/Green.uasset'
+[2026.01.30-08.27.23:673][141]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_MYasset/Mateirals/Green] ([1] browsable assets)...
+[2026.01.30-08.27.23:673][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/_MYasset/Mateirals/Green]
+[2026.01.30-08.27.23:673][141]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_MYasset/Mateirals/Green" FILE="../../../../UE_Projects/GameJam_2026/Content/_MYasset/Mateirals/Green.uasset" SILENT=true
+[2026.01.30-08.27.23:682][141]LogSavePackage: Moving output files for package: /Game/_MYasset/Mateirals/Green
+[2026.01.30-08.27.23:683][141]LogSavePackage: Moving '../../../../UE_Projects/GameJam_2026/Saved/Green5D67355F45C2BE827EA0C8AF17B2FCDD.tmp' to '../../../../UE_Projects/GameJam_2026/Content/_MYasset/Mateirals/Green.uasset'
+[2026.01.30-08.27.23:683][141]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_TigerAsset/Mateirals/Event_MrStalker] ([1] browsable assets)...
+[2026.01.30-08.27.23:683][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/_TigerAsset/Mateirals/Event_MrStalker]
+[2026.01.30-08.27.23:683][141]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_TigerAsset/Mateirals/Event_MrStalker" FILE="../../../../UE_Projects/GameJam_2026/Content/_TigerAsset/Mateirals/Event_MrStalker.uasset" SILENT=true
+[2026.01.30-08.27.23:691][141]LogSavePackage: Moving output files for package: /Game/_TigerAsset/Mateirals/Event_MrStalker
+[2026.01.30-08.27.23:691][141]LogSavePackage: Moving '../../../../UE_Projects/GameJam_2026/Saved/Event_MrStalkerD93B61444C36F4E5A18533AFEA7170C8.tmp' to '../../../../UE_Projects/GameJam_2026/Content/_TigerAsset/Mateirals/Event_MrStalker.uasset'
+[2026.01.30-08.27.23:692][141]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_MYasset/Mateirals/Event_MrStalker] ([1] browsable assets)...
+[2026.01.30-08.27.23:692][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/_MYasset/Mateirals/Event_MrStalker]
+[2026.01.30-08.27.23:692][141]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_MYasset/Mateirals/Event_MrStalker" FILE="../../../../UE_Projects/GameJam_2026/Content/_MYasset/Mateirals/Event_MrStalker.uasset" SILENT=true
+[2026.01.30-08.27.23:700][141]LogSavePackage: Moving output files for package: /Game/_MYasset/Mateirals/Event_MrStalker
+[2026.01.30-08.27.23:700][141]LogSavePackage: Moving '../../../../UE_Projects/GameJam_2026/Saved/Event_MrStalker4B338B284FE0F019218804BE4ACD8C71.tmp' to '../../../../UE_Projects/GameJam_2026/Content/_MYasset/Mateirals/Event_MrStalker.uasset'
+[2026.01.30-08.27.23:701][141]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_TigerAsset/Mateirals/Red] ([1] browsable assets)...
+[2026.01.30-08.27.23:701][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/_TigerAsset/Mateirals/Red]
+[2026.01.30-08.27.23:701][141]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_TigerAsset/Mateirals/Red" FILE="../../../../UE_Projects/GameJam_2026/Content/_TigerAsset/Mateirals/Red.uasset" SILENT=true
+[2026.01.30-08.27.23:709][141]LogSavePackage: Moving output files for package: /Game/_TigerAsset/Mateirals/Red
+[2026.01.30-08.27.23:709][141]LogSavePackage: Moving '../../../../UE_Projects/GameJam_2026/Saved/RedD34EA88D440EA6FA90A35C89676D3DD8.tmp' to '../../../../UE_Projects/GameJam_2026/Content/_TigerAsset/Mateirals/Red.uasset'
+[2026.01.30-08.27.23:710][141]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_MYasset/Mateirals/Red] ([1] browsable assets)...
+[2026.01.30-08.27.23:710][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/_MYasset/Mateirals/Red]
+[2026.01.30-08.27.23:710][141]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_MYasset/Mateirals/Red" FILE="../../../../UE_Projects/GameJam_2026/Content/_MYasset/Mateirals/Red.uasset" SILENT=true
+[2026.01.30-08.27.23:718][141]LogSavePackage: Moving output files for package: /Game/_MYasset/Mateirals/Red
+[2026.01.30-08.27.23:718][141]LogSavePackage: Moving '../../../../UE_Projects/GameJam_2026/Saved/Red3CC65B5F429D3832F13B7084222B7D08.tmp' to '../../../../UE_Projects/GameJam_2026/Content/_MYasset/Mateirals/Red.uasset'
+[2026.01.30-08.27.23:719][141]LogFileHelpers: InternalPromptForCheckoutAndSave took 61.094 ms (total: 1.96 sec)
+[2026.01.30-08.27.23:772][141]LogContentValidation: Display: Starting to validate 6 assets
+[2026.01.30-08.27.23:772][141]LogContentValidation: Enabled validators:
+[2026.01.30-08.27.23:773][141]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.30-08.27.23:773][141]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.30-08.27.23:773][141]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.30-08.27.23:773][141]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.30-08.27.23:773][141]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.30-08.27.23:773][141]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.30-08.27.23:773][141]AssetCheck: /Game/_TigerAsset/Mateirals/Green Validating asset
+[2026.01.30-08.27.23:773][141]AssetCheck: /Game/_MYasset/Mateirals/Green Validating asset
+[2026.01.30-08.27.23:773][141]AssetCheck: /Game/_TigerAsset/Mateirals/Event_MrStalker Validating asset
+[2026.01.30-08.27.23:773][141]AssetCheck: /Game/_MYasset/Mateirals/Event_MrStalker Validating asset
+[2026.01.30-08.27.23:773][141]AssetCheck: /Game/_TigerAsset/Mateirals/Red Validating asset
+[2026.01.30-08.27.23:773][141]AssetCheck: /Game/_MYasset/Mateirals/Red Validating asset
+[2026.01.30-08.27.23:810][141]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../UE_Projects/GameJam_2026/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.30-08.27.31:714][965]Cmd: TRANSACTION UNDO
+[2026.01.30-08.27.31:714][965]LogEditorTransaction: Undo Edit Text Render Color
+[2026.01.30-08.27.34:418][219]Cmd: TRANSACTION REDO
+[2026.01.30-08.27.34:418][219]LogEditorTransaction: Redo Edit Text Render Color
+[2026.01.30-08.27.39:415][707]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2026.01.30-08.27.42:346][707]LogSlate: Window 'Delete Assets' being destroyed
+[2026.01.30-08.27.49:896][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.01.30-08.27.53:215][494]LogSlate: Window 'Delete Assets' being destroyed
+[2026.01.30-08.28.02:639][410]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.01.30-08.28.05:288][410]LogSlate: Window 'Delete Assets' being destroyed
+[2026.01.30-08.28.05:332][410]LogUObjectGlobals: Force Deleting 3 Package(s):
+	Asset Name: /Game/_MYasset/Mateirals/Red.Red
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/_MYasset/Mateirals/Event_MrStalker.Event_MrStalker
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/_MYasset/Mateirals/Green.Green
+	Asset Type: ObjectRedirector
+[2026.01.30-08.28.05:738][410]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.01.30-08.28.05:753][410]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.01.30-08.28.05:767][410]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.01.30-08.28.05:955][410]LogStreaming: Display: FlushAsyncLoading(420): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.30-08.28.06:329][413]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2026.01.30-08.28.38:380][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.01.30-08.28.38:382][828]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Sec_B' took 0.018
+[2026.01.30-08.28.38:382][828]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_GENERATED/Meepo/Box_A8ECFAE1] ([1] browsable assets)...
+[2026.01.30-08.28.38:382][828]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/Meepo/Box_A8ECFAE1]
+[2026.01.30-08.28.38:382][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_GENERATED/Meepo/Box_A8ECFAE1" FILE="../../../../UE_Projects/GameJam_2026/Saved/Autosaves/Game/_GENERATED/Meepo/Box_A8ECFAE1_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2026.01.30-08.28.38:394][828]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/Meepo/Box_A8ECFAE1_Auto4
+[2026.01.30-08.28.38:394][828]LogSavePackage: Moving '../../../../UE_Projects/GameJam_2026/Saved/Box_A8ECFAE1_Auto4A1D71D874FC97D0B85E50980EAFD912A.tmp' to '../../../../UE_Projects/GameJam_2026/Saved/Autosaves/Game/_GENERATED/Meepo/Box_A8ECFAE1_Auto4.uasset'
+[2026.01.30-08.28.38:395][828]LogFileHelpers: Auto-saving content packages took 0.012
+[2026.01.30-08.29.08:400][238]LogDerivedDataCache: C:/Users/Meepo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.01.30-08.31.36:912][256]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7404.148926
+[2026.01.30-08.31.37:911][259]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.30-08.31.37:912][259]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7404.815430, Update Interval: 310.488586
+[2026.01.30-08.37.42:315][352]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7769.559082
+[2026.01.30-08.37.43:309][355]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.30-08.37.43:309][356]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7770.220703, Update Interval: 309.871521
+[2026.01.30-08.43.26:698][385]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8113.944336
+[2026.01.30-08.43.28:020][389]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.30-08.43.28:020][389]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8114.933105, Update Interval: 351.509155
