@@ -75,3 +75,7 @@ Config/steamvr_ue_editor_app.json
 Config/SteamVRBindings
 Platforms/HoloLens/Config/HoloLensEngine.ini
 .vsconfig
+Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+*.ini
+*.ini
+Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
